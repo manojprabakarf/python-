@@ -1,0 +1,16 @@
+a=2
+b=12
+c=22
+d=33
+e=44
+f=55
+g=66
+h=77
+i=88
+j=9
+z=a+b+c+d+e+f+g+h+i+j
+y=a*b*c*d*e*f*g*h*i*j
+x=b/a
+print(z)
+print(y)
+print(x)
